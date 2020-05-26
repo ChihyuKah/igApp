@@ -31,3 +31,5 @@ in your VM host file
 
 also check if 'sudo a2enmod rewrite' is enabled or not
 and then restart the apache server.
+
+[solution](https://stackoverflow.com/questions/28242495/laravel-the-requested-url-was-not-found-on-this-server)
