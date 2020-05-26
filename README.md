@@ -1,4 +1,4 @@
-#Troubleshooting
+# Troubleshooting
 
 So after all the troubleshooting I had I'm finally able to continue with my progress.
 
