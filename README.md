@@ -9,6 +9,8 @@ First when making a new applic and you know you want a registery use:
 laravel new 'name of project' --auth incase you already made an applic
 use php artisan ui:auth (not php artisan make:auth)
 
+PS: When it gives you the error if access denied you have to chmod the storage folder "sudo chmod -R 775 /storage"
+
 2) 
 When you try to migrate and it fails and you see this error: 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client (SQL: select * from information_schema.tables where table_schema = DB1 and table_name = migrations and table_type = 'BASE TABLE')'
 

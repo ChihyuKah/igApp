@@ -29,12 +29,12 @@
             </div>
             <div class="col-4">
                 <img
-                    src="https://scontent-bru2-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/100881924_2522556044663611_4273294490229493048_n.jpg?_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=1&_nc_ohc=WuiwJK2eONcAX-izOlt&oh=2ff34500939fe4904d66330e21fd04f9&oe=5EF66AA3"
+                    src="https://scontent-bru2-1.cdninstagram.com/v/t51.2885-15/e35/c0.113.904.904a/s480x480/95358667_688064568696994_1667360518065692834_n.jpg?_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=NkWw9ONWCEoAX92WKww&oh=8c9b371df9ece6ae8e78250b675824e4&oe=5EF6B47D"
                     alt="#" class="w-100">
             </div>
             <div class="col-4">
                 <img
-                    src="https://scontent-bru2-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/100881924_2522556044663611_4273294490229493048_n.jpg?_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=1&_nc_ohc=WuiwJK2eONcAX-izOlt&oh=2ff34500939fe4904d66330e21fd04f9&oe=5EF66AA3"
+                    src="https://scontent-bru2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/101062719_848788678941594_233104424588781093_n.jpg?_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=h1nU6Np1BakAX-GbLey&oh=8dfc85a397f555a397e961fadee7d1af&oe=5EF5B383"
                     alt="#" class="w-100">
             </div>
         </div>
