@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class profileController extends Controller
 {
-    public function index($user)
+    public function index()
     {
         return view('home');
     }
